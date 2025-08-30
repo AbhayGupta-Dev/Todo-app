@@ -55,6 +55,8 @@ You’ll need:
 
 Python 3
 
+customtkinter  (pip install customtkinter)
+
 tkinter (comes with Python)
 
 sqlite3 (also comes with Python)
