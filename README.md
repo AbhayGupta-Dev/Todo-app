@@ -66,6 +66,9 @@ sqlite3 (also comes with Python)
 
 python todo.py
 
+**Also Download(.exe)**
+[![ToDo App](https://github.com/AbhayGupta-Dev/Todo-app/releases/download/1.0/Life.Easy.exe)
+
 ---
 Notes
 
